@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1655248311 source:c:\users\djs15\documents\codeblcks_utn\tp_final_gym\tp_gym\main.c
+1655941507 source:c:\users\vitor\desktop\tp_gym\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
 	<string.h>
 	<windows.h>
 
-1655248311 source:c:\users\milagros\desktop\utn\1er a—o\tp_gym\main.c
+1663115667 source:c:\users\milagros\desktop\tp final lab i\tp lab i version final\tp_gym\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
