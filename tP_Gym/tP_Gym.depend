@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655248311 source:c:\users\djs15\documents\codeblcks_utn\tp_final_gym\tp_gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1655248311 source:c:\users\milagros\desktop\utn\1er a—o\tp_gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
